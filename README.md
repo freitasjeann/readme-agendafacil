@@ -1,5 +1,5 @@
 # Grupo2-agendafacil
-**integrantes da equipe**
+**Integrantes da Equipe**
 CAUA DA SILVA COUTO,
 JEAN LUCAS NOGUEIRA FREITAS DA SILVA,
 MATHEUS DE SOUZA PIMENTEL,
@@ -11,24 +11,24 @@ WALLACE DOS SANTOS PINTO
 Desenvolvimento de uma plataforma web para agendamento de atendimentos no Núcleo de Apoio Contábil e Fiscal (NAF) do Centro Universitário Serra dos Órgãos (Unifeso).
 
 
-**obejetivo**:
+**Obejetivo**:
 tornar o processo de agendamento mais eficiente e acessível para as pessoas.
 
 
-**publico alvo**:
+**Publico Alvo**:
 população local,cidadãos que procuram assistencia fiscal e contábil.
 
 
 
-**dores do publico alvo**:
+**Dores do Publico Alvo**:
 pessoas que procuram um agendamento do NAF.
 
 
-**tecnologias**:
+**Tecnologias**:
 HTML,CSS.JAVASCRIPT
 
 
-**instruções para Executar o MVP**:
+**Instruções para Executar o MVP**:
 git clone https://github.com/grupo2-agendafacil/AgendaFacil-NAF.git
 cd AgendaFacil-NAF
 
