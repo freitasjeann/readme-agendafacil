@@ -21,7 +21,7 @@ população local,cidadãos que procuram assistencia fiscal e contábil.
 
 
 **dores do publico alvo**:
-pessoas que procuram um agendamento do NAF.
+pessoas que procuram um agendamento para assistencia fiscal e contabil por meio do NAF.
 
 
 **tecnologias**:
